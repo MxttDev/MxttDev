@@ -1,3 +1,6 @@
+<div align="center">
+   <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
+</div>
 <h1 align="center">Hi! I'm Matt</h1>
 <h3 align="center">A passionate Software Engineer from the UK!</h3>
 <p align="center">I have long been fascinated by the transformative impact of computer technology and its ability to shape society in ways that were once unimaginable. Growing up, I began exploring software engineering at an early age, and this curiosity has steadily evolved into a genuine passion for the field. Having lived in London for the past three years, I have been fortunate to engage with a diverse and innovative environment that has further strengthened my interest in pursuing software engineering. I particularly enjoy creating and experimenting with new ideas, as well as continually expanding my knowledge through the exploration of emerging technologies.</p>
