@@ -30,19 +30,19 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 <br><br>
 
-- 🔭 I’m currently open to a new Job
+- 🔭 Actively looking for new opportunities.
 
-- 🌱 I’m currently learning **Devops**
+- 🌱 Currently building my knowledge in DevOps and cloud technologies.
 
-- 👨‍💻 All of my projects are available at [supun's workspace](http://supun.traditionalme.life)
+- 👨‍💻 Passionate about designing, developing, and experimenting with new ideas.
 
-- 💬 Ask me about **Java, Python, PHP and NodeJS**
+- 💬 Skilled in Java, Lua, SQL, and Node.js, with a strong interest in problem-solving and scalable systems.
 
-- 📫 How to reach me **supunnanayakkara01@gmail.com**
+- 📫 How to reach me **mattRstott@gmail.com**
 
-- 📄 Know about my experiences [my experiences](http://supun.traditionalme.life/#resume)
+- 📄 I enjoy turning ideas into real-world solutions through code and creativity.
 
-- ⚡ Fun fact **I think I'm funny**
+- ⚡ Fun fact: I love learning how things work — whether it’s tech or beyond.
 
 <br>
 <h3 align="left">Connect with me:</h3>
