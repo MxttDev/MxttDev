@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Software Engineer from the UK!</h3>
 <p align="center">I have long been fascinated by the transformative impact of computer technology and its ability to shape society in ways that were once unimaginable. Growing up, I began exploring software engineering at an early age, and this curiosity has steadily evolved into a genuine passion for the field. Having lived in London for the past three years, I have been fortunate to engage with a diverse and innovative environment that has further strengthened my interest in pursuing software engineering. I particularly enjoy creating and experimenting with new ideas, as well as continually expanding my knowledge through the exploration of emerging technologies.</p>
 <p align="center"> 
- <img src="https://komarev.com/ghpvc/?username=supuna97&label=Profile%20views&color=0e75b6&style=flat" alt="supun nanayakkara" /> 
+ <img src="https://komarev.com/ghpvc/?username=MxttDev&label=Profile%20views&color=0e75b6&style=flat" alt="Matt Stott" /> 
 <!--  <img src="https://img.shields.io/badge/Languages-Python | Java | PHP | Typescript | Node | React -green.svg" alt="supun nanayakkara's languages" /> -->
 <!--  <img alt="Profile followers" src="https://img.shields.io/github/followers/supuna97"> -->
 </p>
